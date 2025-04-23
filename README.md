@@ -3,12 +3,16 @@ Hey there! I'm **Akshat**, a passionate software developer and student at **Pola
 
 I love building things—from Android apps to creative personal projects—and I'm always diving into new technologies through open-source contributions and internships.
 
+---
+
 ### 💡 Interests & Focus:
 - 📱 Android Development (Kotlin & Jetpack)
 - 🧠 Data Structures & Algorithms
 - 🌐 Open Source Contributions
 - 💻 Personal Projects & Hackathons
 - 🚀 Internships that challenge and grow me
+
+  ---
 
 ### 🌱 Currently Learning:
 - System Design for scalable mobile apps
