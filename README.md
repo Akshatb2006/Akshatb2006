@@ -12,7 +12,7 @@ I love building things—from Android apps to creative personal projects—and I
 - 💻 Personal Projects & Hackathons
 - 🚀 Internships that challenge and grow me
 
-  ---
+---
 
 ### 🌱 Currently Learning:
 - System Design for scalable mobile apps
