@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm **Akshat**, a passionate software developer and student at **Polaris School of Technology**, Bangalore.
+Hey there! I'm **Akshat**, an evergrowing software developer and student at **Polaris School of Technology**, Bangalore.
 
 I love building things—from Android apps to creative personal projects—and I'm always diving into new technologies through open-source contributions and internships.
 
