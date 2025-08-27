@@ -49,10 +49,5 @@ Let's connect and build something awesome together!
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Akshatb2006&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 
 
