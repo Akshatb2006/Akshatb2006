@@ -32,8 +32,8 @@
 
 ## 🏆 Achievements
 - 🥇 Google Summer of Code 2025  
-- ₿ Summer of Bitcoin 2025  
-- 🎬 Media Club President  
+- ₿ Summer of Bitcoin 2025
+- Freelancer(worked with 12+ clients across globe)
 
 ---
 
